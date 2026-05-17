@@ -1,1 +1,1 @@
-# Atividade-01-HTML-CSS-JavaScritp
+# Atividades-HTML-CSS-JavaScritp
