@@ -1,0 +1,25 @@
+.cap {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #085815; 
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center; 
+    margin-bottom: 11px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+th,td {
+  text-align: center;
+  height: 40px;
+  font-weight: bold;
+}
+
+th {
+  background-color: #085815;
+  color: #ffffff;
+}
